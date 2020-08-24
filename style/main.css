@@ -1,0 +1,42 @@
+body, html {
+    height: 100%; 
+    margin: 0;
+    }
+
+.bgimg {
+    position: relative;
+    height: 100%;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;    
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    width: 100%;
+}
+
+.title {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+.title span.border {
+    background-color: rgb(0, 0, 0);
+    opacity: 0.75;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 12px;
+}
+.title span.border2 {
+    background-color: #111;
+    opacity: 0.75;
+    color: #fff;
+    padding: 14px;
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+
