@@ -63,7 +63,7 @@ a:hover {
 }
 .form {
   top: 30%;
-  position: absolute;
+  position: relative;
   z-index: 1;
   background: rgba(32, 34, 33, 0.8);
   max-width: 360px;
