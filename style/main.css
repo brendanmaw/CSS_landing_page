@@ -13,7 +13,7 @@ body, html {
     opacity: 0.85;
     width: 100%;
 }
-bgimg2 {
+.bgimg2 {
     position: relative;
     height: 100%;
     background-image: url(background2.jpg);
@@ -23,7 +23,7 @@ bgimg2 {
     opacity: 0.85;
     width: 100%;
 }
-bgimg3 {
+.bgimg3 {
     position: relative;
     height: 100%;
     background-image: url(background2.jpg);
