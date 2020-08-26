@@ -3,7 +3,27 @@ body, html {
     margin: 0;
 }
 
-.bgimg, bgimg2, bgimg3 {
+.bgimg {
+    position: relative;
+    height: 100%;
+    background-image: url(background2.jpg);
+    background-size: cover;
+    background-position: center;    
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    width: 100%;
+}
+bgimg2 {
+    position: relative;
+    height: 100%;
+    background-image: url(background2.jpg);
+    background-size: cover;
+    background-position: center;    
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    width: 100%;
+}
+bgimg3 {
     position: relative;
     height: 100%;
     background-image: url(background2.jpg);
