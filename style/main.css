@@ -6,7 +6,7 @@ body, html {
 .bgimg {
     position: relative;
     height: 100%;
-    background-image: url(background2.jpg);
+    background-image: url(background.jpg);
     background-size: cover;
     background-position: center;    
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@ body, html {
 .bgimg3 {
     position: relative;
     height: 100%;
-    background-image: url(background2.jpg);
+    background-image: url(background3.jpg);
     background-size: cover;
     background-position: center;    
     background-repeat: no-repeat;
